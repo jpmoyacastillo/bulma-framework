@@ -1,0 +1,14 @@
+{
+  "name": "first-page",
+  "version": "1.0.0",
+  "description": "Primer sitio en Bulma css",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Pablo Moya Castillo",
+  "license": "ISC"
+}
