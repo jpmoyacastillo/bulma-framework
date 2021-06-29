@@ -1,3 +1,9 @@
+# Bulma CSS Scrimba
+
+Project for the Bulma CSS course at Scrimba
+
+You can see it at https://jpmoyacastillo.github.io/bulma-framework/
+
 ## Supporting Scrimba
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
